@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/litestar-org/fast-query-parsers/commit/625a2d1f9893a8350dcd0b4f95e619f83697a7e3",
       "git:hexsha": "625a2d1f9893a8350dcd0b4f95e619f83697a7e3",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/litestar-org/fast-query-parsers/commit/bf7a483ea04540ad83d07c9f96f6af99fef8fbd4",
